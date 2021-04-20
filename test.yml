@@ -1,0 +1,6 @@
+---
+- name: First file
+  hosts: all
+  tasks:
+    -name: task 1
+    
